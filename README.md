@@ -65,9 +65,6 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push your changes to your fork: `git push origin feature-name`.
 5. Submit a pull request explaining your changes.
 
-All contributions are welcome!
-
-
-```
+All contributions are welcome!<br\>
 
 Feel free to modify and customize the README.md file according to your specific requirements and preferences.
