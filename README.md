@@ -1,6 +1,6 @@
 # Python-Project-Cow-Price-prediction
 
-This repository contains code for analyzing cow prices based on their weight and color. The code performs data preprocessing, exploratory data analysis, and generates a scatter plot to visualize the relationship between weight and price.
+This repository contains code for analyzing cow prices based on their weight and color. The code performs data preprocessing, exploratory data analysis, and generates a scatter plot to visualize the relationship between weight and price. It also predicts prices using Linear regression
 
 
 ## Results
