@@ -1,4 +1,4 @@
-# Python-Rpoject-Cow-Price-prediction
+# Python-Project-Cow-Price-prediction
 
 
 
