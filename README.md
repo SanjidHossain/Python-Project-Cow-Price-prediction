@@ -2,10 +2,14 @@
 
 
 
-```
 # Cow Price Detection
 
 This repository contains code for analyzing cow prices based on their weight and color. The code performs data preprocessing, exploratory data analysis, and generates a scatter plot to visualize the relationship between weight and price.
+
+
+## Results
+
+The code generates a scatter plot that visualizes the relationship between cow weight and price. Each point on the plot represents a cow, and the color of the points corresponds to the cow's color. The plot helps in understanding how weight and color affect the price of cows. Apart from this,  `Linear regression` has been used for price prediction. 
 
 ## Dataset
 
@@ -31,7 +35,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/cow-price-detection.git
+git clone https://github.com/SanjidHossain/Python-Project-Cow-Price-prediction.git
 ```
 
 2. Change into the project directory:
@@ -49,14 +53,11 @@ pip install -r requirements.txt
 4. Run the code:
 
 ```
-python cow_price_detection.py
+python cow_price_detection.ipynb
 ```
 
 Make sure to have the dataset `python_data.csv` in the same directory as the script.
 
-## Results
-
-The code generates a scatter plot that visualizes the relationship between cow weight and price. Each point on the plot represents a cow, and the color of the points corresponds to the cow's color. The plot helps in understanding how weight and color affect the price of cows.
 
 ## Contributing
 
@@ -70,9 +71,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 All contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ```
 
